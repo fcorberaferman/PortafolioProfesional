@@ -1,0 +1,213 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:ital,wght@1,300&family=Forum&family=IBM+Plex+Sans+Thai+Looped:wght@200;300;500&family=Libre+Baskerville:ital,wght@0,700;1,400&family=Montserrat:wght@400;700;800&display=swap');
+
+h1{
+    margin-top: 0%;
+    font-family: 'Libre Baskerville';
+    font-size: 40px;
+    color: white;
+}
+
+blockquote{
+    font-family: 'Cormorant Infant';
+    font-size: 30px;
+    color: white;
+}
+
+h2{
+    font-family: 'Libre Baskerville';
+    font-size: 20px;
+    color: white;
+}
+
+.Bienvenida p
+{
+    font-size: 20px;
+    font-family:'Forum';
+    color: whitesmoke;
+    margin: 2px;
+    padding: 0 1rem;
+    top: 50%;
+    vertical-align: middle;
+    line-height: 150%;
+}
+
+.AcercaDeMi
+{
+    width: 300px;
+    height: 50px;
+    background: rgb(164, 175, 179);
+    margin-top: 10px;
+    margin-left: 180px;
+    text-align: center;   
+}
+
+.AcercaDeMi a
+{
+    text-decoration: none;
+    color: black;
+}
+
+.AcercaDeMi p
+{
+    font-size: 40px;
+    font-family:'Forum';
+    color: black;
+    margin: 0;
+    top: 50%;
+    text-align: center;
+}
+
+.Experiencia 
+{
+    width: 300px;
+    height: 110px;
+    background: rgb(164, 175, 179);
+    margin-top: 10px;
+    margin-left: 180px;
+    text-align: center;   
+}
+
+.Experiencia a
+{
+    text-decoration: none;
+    color: black;
+}
+
+.Experiencia p
+{
+    font-size: 40px;
+    font-family:'Forum';
+    color: black;
+    margin: 0;
+    top: 50%;
+    text-align: center;
+}
+
+.Contacto
+{
+    width: 300px;
+    height: 50px;
+    background: rgb(164, 175, 179);
+    margin-top: 10px;
+    margin-left: 180px;
+    text-align: center;   
+}
+
+.Contacto a
+{
+    text-decoration: none;
+    color: black;
+}
+
+.Contacto p
+{
+    font-size: 40px;
+    font-family:'Forum';
+    color: black;
+    margin: 0;
+    top: 50%;
+    text-align: center;
+}
+
+h3{
+    font-family: 'Libre Baskerville';
+    font-size: 35px;
+    color: white;
+
+}
+
+button{
+    font-size: 30px;
+    position: relative;
+    padding: 5px 10px;
+    border: none;
+    background: black;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+
+button a{
+    text-decoration: none;
+    color: white;
+}
+
+p{
+    font-size: 18px;
+    line-height: 150%;
+    font-family:'Forum';
+    color: whitesmoke;
+    margin-right: 2rem;
+    padding: 0 1rem;
+    top: 50%;
+    Vertical-align: middle;
+}
+
+.Servicios p
+{
+    margin-top: 0%;
+    margin-left: 20px;
+    font-size: 30px;
+    font-family:'Libre Baskerville';
+    color: white;
+    top: 50%;
+}
+
+.DescripcionServicios ul
+{
+    margin-left: 20px;
+    font-size: 20px;
+    font-family:'Forum';
+    color: whitesmoke;
+    top: 50%;
+    vertical-align: middle;
+}
+
+h4{
+    margin-top: 0%;
+    font-size: 30px;
+    font-family:'Libre Baskerville';
+    color: white;
+    padding: 0 1rem;
+    top: 50%;
+}
+
+ul2{
+    margin-top: 0%;
+    font-size: 20px;
+    font-family:'Forum';
+    color: whitesmoke;
+    vertical-align: middle;
+}
+
+
+h5{
+    float: right;
+    margin-right: 7px;
+    font-size: 20px;
+    font-family:'Libre Baskerville';
+    color: white;
+    top: 50%;
+    vertical-align: middle;
+    line-height: 130%;
+
+}
+
+
+h6{
+    margin-top: 10px;
+    font-size: 50px;
+    font-family: 'Libre Baskerville';
+    color: white;
+
+}
+
+ul4{
+    margin-top: 0%;
+    font-size: 40px;
+    color: whitesmoke;
+    line-height: 150%;
+}
+
+
+
